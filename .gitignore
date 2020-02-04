@@ -71,3 +71,5 @@ packages/babel-standalone/babel.min.js
 /eslint/*/node_modules
 /eslint/*/LICENSE
 !/packages/babel-eslint-plugin/LICENSE
+.watchmanconfig
+.vscode
